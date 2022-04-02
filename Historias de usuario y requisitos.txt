@@ -1,0 +1,35 @@
+REQUISITOS FUNCIONALES Y NO FUNCIONALES:
+El software cuenta con dos tipos de usuario:
+-	Administrador
+-	Cliente
+FUNCIONALES:
+RF1. El cliente necesita ver una lista de productos y precios
+RF2. El administrador necesita ver la lista de productos para ver cuál es el más vendido
+RF3. El cliente necesita llevar un control sobre su inventario
+RF4. El cliente necesita una lista con sus productos con el precio de cada uno
+RF5. Debe utilizar los colores de la empresa en el diseño
+RF6. El administrador quiere ver su lista de productos en orden alfabético
+RF7. El cliente necesita realizar el pago de su pedido en la página con tarjeta
+RF8 El dueño de la tortillería necesita el registro de las ventas del día
+RF9 El dueño de la tortillería necesita identificar cada producto por medio de un código
+RF10. El cliente necesita donde ingresar sus datos para sus pedidos online
+RF11. La página web debe mostrar un mensaje si fue aceptado su pedido o no
+NO FUNCIONALES:
+RNF1. La pantalla principal, debe mostrar imágenes de los productos vendidos por el negocio.
+RNF2. La pantalla principal debe tener un apartado donde estén los links a las redes sociales del negocio.
+RNF3. La pantalla principal debe mostrar el logo del negocio
+
+
+-----------------------Historias de usuario--------------
+
+HU1.  Como cliente quiero ver una lista de productos con sus precios para identificar de mejor manera lo que voy a comprar 
+HU2. Como administrador quiero ver una lista de mis productos con su respectivo numero de ventas para ver cual es el más vendido
+HU3. Como administrador quiero ver mi inventario para llevar mejor control
+HU4. Como administrador quiero ver el logo de mi negocio para mejorar la presentación de la pagina
+HU5. Como administrador quiero que se utilicen los colores de mi empresa para que se nos identifique de mejor manera 
+HU6. Como administrador quiero que mis productos sean ordenados de manera alfabética para identificarlos de mejor manera
+HU7. Como cliente quiero varios métodos de pago para no depender solo del efectivo
+HU8. Como administrador quiero que mis productos tengan un código único para cualquier aclaración
+HU9 Como cliente quiero ingresar mis datos para pedir online
+HU10. Como cliente quiero saber si mi pedido fue aceptado para evitar cualquier discusión
+HU11 Como administrador quiero que mi pagina tenga las redes sociales para poner más adelante la marca
