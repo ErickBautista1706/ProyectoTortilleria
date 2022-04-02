@@ -33,3 +33,7 @@ HU8. Como administrador quiero que mis productos tengan un código único para c
 HU9 Como cliente quiero ingresar mis datos para pedir online
 HU10. Como cliente quiero saber si mi pedido fue aceptado para evitar cualquier discusión
 HU11 Como administrador quiero que mi pagina tenga las redes sociales para poner más adelante la marca
+
+-----------------------Validaciones---------------------
+
+Gilberto Cruz Olivares: Validado 
