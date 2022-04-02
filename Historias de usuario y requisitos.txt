@@ -36,4 +36,5 @@ HU11 Como administrador quiero que mi pagina tenga las redes sociales para poner
 
 -----------------------Validaciones---------------------
 
-Gilberto Cruz Olivares: Validado 
+Gilberto Cruz Olivares: Validado
+Erick Jonathan Bautista Perez: Validado 
