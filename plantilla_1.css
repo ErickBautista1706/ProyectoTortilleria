@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cuerpoDePagina{
+    width: 1850px;
+    height: 2200px;
+    background: #D8D8D8;
+    margin: 0.5em auto;
+    padding: 0.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#encabezadoDePagina{
+    height: 8%;
+    background: #a4a4a4;
+    margin: 1em;
+}
+#titulo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f44336;
+    font-size: 500%;
+}
+#panelSuperior{
+    height: 2.1%;
+    margin: 1em;
+    background: #706e6e;
+}
+#panelSuperior a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#panelSuperior a:hover{
+    background-color: #f44336;
+    color: black;
+}
+#publicacion_1{
+    height: 18%;
+    background: #a4a4a4;
+    margin: 1em;    
+}
+#publicacion_2{
+    height: 20%;
+    background: #a4a4a4;
+    margin: 1em;    
+}
+#publicacion_3{
+    height: 15%;
+    background: #a4a4a4;
+    margin: 1em;    
+}
+#publicacion_4{
+    height: 10%;
+    background: #a4a4a4;
+    margin: 1em;    
+}
+#publicacion_5{
+    height: 15%;
+    background: #a4a4a4;
+    margin: 1em;    
+}
+#pieDePagina{
+    height: 3%;
+    background: #a4a4a4;
+    margin: 1em;  
+    text-align: center;
+}
+#titulop1{
+    text-align: center;    
+    font-size: 250%;
+    color: #f44336;    
+}
+#logop{
+    
+}
+#presentacion{
+
+}
+.reedireccionar:link, .reedireccionar:visited{
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.reedireccionar:hover, .reedireccionar:active{
+    background-color: black;
+}
