@@ -38,3 +38,4 @@ HU11 Como administrador quiero que mi pagina tenga las redes sociales para poner
 
 Gilberto Cruz Olivares: Validado
 Erick Jonathan Bautista Perez: Validado 
+Esau Abimael Garcia Peña: Validado
