@@ -2,36 +2,45 @@
 <html lang="es">
 
 <head>
+    <link rel="stylesheet" href="Personalizacion/plantilla_1.css">
     <meta charset="UTF-8">
     <title>Mama Vita</title>
 </head>
 
 <body>
 
-    <main id="cuerpoDePagina"></main>
+    <main id="cuerpoDePagina">
 
         <header id="encabezadoDePagina"> 
-            <h1 id="titulo">TORTILLERIA MAMA VITA id</h1>
-            <nav id="panelSuperior">
-                <a href=" ">Inicio</a>
-                <a href=" ">Administracion</a>
-                <a href=" ">Contacto</a>     
-            </nav>   
+
+            <br>
+            <br>            
+            <h1 id="titulo">TORTILLERIA MAMA VITA</h1>
+              
         </header>
+
+        <article id="panelSuperior">
+            <nav>
+                <a target="_blanck" href="#">Inicio</a>
+                <a target="_blanck" href="#">Administracion</a>
+                <a target="_blanck" href="#">Contacto</a>     
+                <a target="_blanck" href="#" style="float: right;">Otros</a>  
+            </nav> 
+        </article>
 
         <article id="publicacion_1">
 
-            <section id="presentacion">
-                <h1>BIENVENIDO A LA TORTILLERIA "MAMÁ VITA"</h1>
-                <img src="images/WhatsApp Image 2022-04-03 at 11.43.50 AM.jpeg" alt="logomamavita">
+            <section id="titulop1">  
+                <br>              
+                <h1>BIENVENIDO A LA TORTILLERIA "MAMÁ VITA"</h1>                
+            </section>
+            <section id="logop">
+                <img width="350" src="imagenes/MamaVitaLogo.png" alt="logomamavita">
+            </section>
+            <section id="presentacion">                
                 <p>
-                    Nos encontramos en Tula de Allende Hidalgo, con un unico punto de venta unico y permanente en el que se realizan alrededor de 250 ventas al dia, contamos con diferentes productos y paquetes, dentro de nuestros productos se encuentran: 
-                    <ul type="Circle">
-                        <li>Tortilla de harina natural</li>
-                        <li>Tortilla de harina con mantequilla</li>
-                    </ul>
-                    y muchos productos mas!!!
-                </p>
+                    Nos encontramos en Tula de Allende Hidalgo, con un unico punto de venta unico y permanente en el que se realizan alrededor de 250 ventas al dia, contamos con diferentes productos y paquetes, dentro de nuestros productos se encuentran:
+                </p>                
             </section>
 
         </article>
@@ -41,7 +50,7 @@
             <section id="productos">
                 <h2>CONOCE NUESTROS PRODUCTOS</h2>
                 <p>Nuestros productos son 100% hechos por nosotros pasando por un control de calidad muy riguroso para la satisfaccion del cliente</p>
-                <a href="productos.html">CONOCENOS</a>
+                <a class="reedireccionar" href="productos.html">CONOCENOS</a>
             </section>
 
         </article>
@@ -52,7 +61,7 @@
                 <h2>¿TE AGRADAN NUESTROS PRODUCTOS?</h2>
                 <p>Prueba nuestro nuevo para pedir en linea, selecciona los productos que deseas ordenar y cuantos, rellena que se solicitan, selecciona tu forma de pago y listo, tus tortillas llegaran a la comidad de tu casa
                 </p>
-                <a href="pedidoenlinea.html">ORDENA YA!!!</a><br>
+                <a class="reedireccionar" href="pedidoenlinea.html">ORDENA YA!!!</a><br>
                 <em>Este metodo se encuentra en fase de prueba</em>
             </section>            
 
@@ -60,9 +69,12 @@
 
         <article id="publicacion_4">
 
-            <sectio id="contacto">
+            <section id="contacto">
                 <h2>SIGUENOS EN NUESTRAS REDES SOCIALES</h2>
-                <img src="/ProyectoTortilleria/images/logotipo-circular-de-facebook.png" alt="facebook">
+                <!--Si es necesario, cambia las ruta de las imagenes a las que tengas en un pc-->>
+                <img width="200" src="imagenes/Facebook.png" alt="facebook">
+                <img width="150" src="imagenes/Twitter.png" alt="twitter">
+                <img width="125" src="imagenes/Instagram.png" alt="instagram">
             </section>                        
 
         </article>
@@ -70,13 +82,14 @@
         <article id="publicacion_5"> 
 
             <section id="direccion">
-                <a>Queremos conocerte nos encontramos en:</a>
-                <address>Tula de Allende Hidalgo</address>
+                <h2>Queremos conocerte</h2>
+                <p>Encuentranos en:</p>                
+                <a class="reedireccionar" target="_blanck" href="https://www.google.com.mx/maps/place/Tula+de+Allende,+Hgo./@20.0533562,-99.3554073,14.5z/data=!4m5!3m4!1s0x85d3d2cf19b93023:0xee39836eee3c8b4c!8m2!3d20.0535516!4d-99.3395636">Abrir en maps</a>
             </section>            
 
         </article>        
 
-        <footer id="pieDePagina">&#169; Todos los derechos reservados 2022</footer>
+        <footer id="pieDePagina"> <br>&#169; Todos los derechos reservados 2022</footer>
     </main>
 
 </body>
