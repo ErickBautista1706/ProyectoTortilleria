@@ -1,0 +1,31 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+img{
+    max-width: 220px;
+    max-height: 220px;
+    box-shadow: ;
+}
+body{
+    background-color: #92e27a;
+}
+nav{
+    text-align: center;
+    background-color: #f69100;
+}
+nav:hover{
+    background-color: aqua;
+}
+
+h1{
+    background-color: #f69100;
+    text-align: center;
+
+}
+button{
+    position: relative;
+    left: 1100px; 
+}
+article{
+    background-color: #f69100;
+}
