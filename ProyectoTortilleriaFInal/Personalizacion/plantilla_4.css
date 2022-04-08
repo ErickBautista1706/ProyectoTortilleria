@@ -1,0 +1,50 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #92e27a;
+}   
+.navegacion{
+    background-color: #f69100;
+}
+h1{
+    background-color: #f69100;
+    text-align: center;
+    color: white;
+}
+table{
+    margin: 100px auto;
+    width: 600px;
+}   
+th,td{
+    border: solid 1px black;
+    padding: 20px;
+}
+thead{
+    background-color: #f69100;
+    color: white;
+}
+tr:nth-child(even){
+    background-color: #f69100;
+
+}
+tr:hover{
+    cursor: pointer;
+    background-color: #aaa;
+}
+button{
+    position: relative;
+    left: 1000px;    
+}
+footer{
+    position: relative;
+    top: 250px;
+    background-color: #f69100;
+}
+a{
+    color: blueviolet;
+}
+a:hover{
+    transition: color 0.3s ease;
+    color: black;
+}

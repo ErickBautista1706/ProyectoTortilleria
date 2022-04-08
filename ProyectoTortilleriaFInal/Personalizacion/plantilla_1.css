@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Robot','sans-serif';
+    background: #ffba6a;
+}
+
+#cuerpoDePagina{
+    width: 1850px;
+    height: 2200px;
+    background: #71c55b;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+#encabezadoDePagina{
+    height: 8%;
+    background: #ffba6a;
+    margin: 1em;
+}
+#titulo{
+    text-align: center;
+    color: #f44336;
+    font-size: 500%;
+    background-color: #ffba6a;
+}
+#panelSuperior{
+    height: 2.1%;
+    margin: 1em;
+    background: #ffd19b;
+}
+#panelSuperior a{
+    float: left;
+    display: block;
+    color: #f44336;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #ffba6a;
+}
+#panelSuperior a:hover{
+    background-color: #92e27a;
+    color: black;
+}
+#publicacion_1{
+    height: 18%;
+    background: #ffba6a;
+    margin: 1em;    
+}
+#publicacion_2{
+    height: 20%;
+    background: #ffba6a;
+    margin: 1em;    
+}
+#publicacion_3{
+    height: 15%;
+    background: #ffba6a;
+    margin: 1em;    
+}
+#publicacion_4{
+    height: 13%;
+    background: #ffba6a;
+    margin: 1em;    
+}
+#publicacion_5{
+    height: 15%;
+    background: #ffba6a;
+    margin: 1em;    
+}
+#pieDePagina{
+    height: 3%;
+    background: #ffba6a;
+    margin: 1em;  
+    text-align: center;
+}
+#titulop1{  
+    background: #ffba6a;
+    font-size: 250%;
+    color: #f44336; 
+    float: right;   
+    text-align:left; 
+    width: 70%; 
+}
+#logop{
+    background: #ffba6a;
+    float: left;
+    margin-top: 0.7em;
+    width: 30%;
+}
+#presentacion{
+    background: #ffba6a;
+    float: right;
+    width: 70%;
+}
+#listaProductos{
+    background: #ffba6a;
+    margin: 2em;
+}
+#subtitulo1{
+    background: #ffba6a;
+    text-align: center;
+    float: left;
+    width: 65%;
+    padding-top: 2em;
+}
+#explicacionProductos{
+    background: #ffba6a;
+    text-align: center;
+    float: left;
+    width: 65%;
+    padding-top: 2em;
+}
+#imagenEjemploDeProducto{
+    background: #ffba6a;
+    float: right;
+    width: 32%;
+    padding-right: 3em;
+    text-align: center;
+}
+#boton_1{
+    background: #ffba6a;
+    float: left;
+    width: 65%;
+    padding-top: 2em;
+    text-align: center;
+}
+#subtitulo2{
+    background: #ffba6a;
+    padding-top: 2em;
+    text-align: center;
+}
+#imagenPedidoIzquierda{
+    background: #ffba6a;
+    float: left;
+    padding: 1em;
+}
+#explicacionCompras{
+    background: #ffba6a;
+    float: inline-start;
+    padding: 2em;
+    text-align: center;
+}
+#boton_2{
+    background: #ffba6a;
+    text-align: center;
+    padding: 5em;
+}
+#contacto{
+    background: #ffba6a;
+    text-align: center;
+    padding: auto;
+}
+#subtitulo3{
+    background: #ffba6a;
+    padding: 1em;
+}
+#imagenMapa{
+    background: #ffba6a;
+    float: right;
+    width: 35%;
+    padding-top: 0.8em;
+}
+#contenidoDireccion{
+    background: #ffba6a;
+    float: left;
+    width: 60%;
+}
+#subtitulo4{
+    background: #ffba6a;
+    text-align: center;
+    padding: 5em;
+}
+#boton_3{
+    background: #ffba6a;
+    text-align: center;
+
+}
+.reedireccionar:link, .reedireccionar:visited{
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.reedireccionar:hover, .reedireccionar:active{
+    background-color: black;
+}
