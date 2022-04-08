@@ -1,0 +1,37 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: #92e27a;
+}
+form{
+    text-align: center;
+    border: solid color black;
+}
+h1{
+    background-color: #f69100;
+    text-align: center;
+    color: white;
+}
+.Titulo{
+    background-color: #f69100;
+    text-align: center;
+    color: white;
+}
+
+button{
+    position: relative;
+    left: 1000px;    
+}
+footer{
+    position: relative;
+    top: 250px;
+    background-color: #f69100;
+}
+a{
+    color: blueviolet;
+}
+a:hover{
+    transition: color 0.3s ease;
+    color: black;
+}
